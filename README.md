@@ -1,16 +1,101 @@
-# React + Vite
+📝 My Blog - React.js Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and beginner-friendly Blog Management Project built using
+React.js and Bootstrap 5.
 
-Currently, two official plugins are available:
+🚀 Project Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+15 pre-added blog posts
 
-## React Compiler
+Add new blog using a form
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Blog ID
 
-## Expanding the ESLint configuration
+Blog title
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Image URL
+
+Author
+
+Category
+
+Date
+
+Description
+
+Edit button
+
+Delete button
+
+Latest Blogs section
+
+Responsive Bootstrap layout
+
+Clean and simple UI
+
+Blog cards with images and details
+
+🛠️ Technologies Used
+
+React.js
+
+JavaScript
+
+Bootstrap 5
+
+HTML
+
+CSS
+
+Vite
+
+📂 Project Structure
+
+blog-project/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── BlogForm.jsx
+│   │   └── BlogCard.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+
+▶️ How to Run
+
+Clone the repository and open the project folder:
+
+git clone https://github.com/pambharshrushti-maker/blog-project.git
+cd blog-project
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+Open the local URL shown in the terminal.
+
+🎥 Project Video
+
+▶️ Watch Blog Project
+Video
+
+🌐 GitHub Repository
+
+View Blog Project on
+GitHub
+
+👩‍💻 Developer
+
+Srushti Pambhar
+
+GitHub:
+@pambharshrushti-maker
+
+⭐ If you like this project, feel free to star the repository!
