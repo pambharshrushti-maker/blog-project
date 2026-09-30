@@ -1,101 +1,61 @@
-📝 My Blog - React.js Project
+# 📝 React Blog Project
 
-A simple and beginner-friendly Blog Management Project built using
-React.js and Bootstrap 5.
+A simple and responsive Blog Website built using **React.js** and **Bootstrap**.
 
-🚀 Project Features
+## 🚀 Features
 
-15 pre-added blog posts
+* 🏠 Home Page
+* 📰 Latest Blogs
+* ✍️ My Blogs
+* 📱 Responsive Design
+* 🎨 Bootstrap UI
+* 🔗 Easy Navigation
 
-Add new blog using a form
+## 🛠️ Technologies Used
 
-Blog ID
+* React.js
+* JavaScript
+* Bootstrap
+* HTML
+* CSS
 
-Blog title
+## 📂 Project Structure
 
-Image URL
+```text
+src/
+├── components/
+├── pages/
+├── App.jsx
+├── App.css
+└── main.jsx
+```
 
-Author
+## ▶️ How to Run
 
-Category
+First install the required packages:
 
-Date
-
-Description
-
-Edit button
-
-Delete button
-
-Latest Blogs section
-
-Responsive Bootstrap layout
-
-Clean and simple UI
-
-Blog cards with images and details
-
-🛠️ Technologies Used
-
-React.js
-
-JavaScript
-
-Bootstrap 5
-
-HTML
-
-CSS
-
-Vite
-
-📂 Project Structure
-
-blog-project/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── BlogForm.jsx
-│   │   └── BlogCard.jsx
-│   ├── App.jsx
-│   ├── App.css
-│   └── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
-
-▶️ How to Run
-
-Clone the repository and open the project folder:
-
-git clone https://github.com/pambharshrushti-maker/blog-project.git
-cd blog-project
-
-Install dependencies:
-
+```bash
 npm install
+```
 
-Run the project:
+Then start the project:
 
+```bash
 npm run dev
+```
 
-Open the local URL shown in the terminal.
+Open the localhost link shown in the terminal.
 
-🎥 Project Video
+## 🎥 Project Code Explanation Video
 
-▶️ Watch Blog Project
-Video
+I have created a short video explaining the project code step-by-step.
 
-🌐 GitHub Repository
+👉 **[Watch Project Code Explanation Video](https://drive.google.com/file/d/1Tj0b0oYIT8Ir2sexfs7-uFIJexUGKah2/view?usp=sharing)**
 
-View Blog Project on
-GitHub
+## 📌 About This Project
 
-👩‍💻 Developer
+This project was created to practice **React.js, Components, Bootstrap, and Blog Content Display**.
 
-Srushti Pambhar
+## 👩‍💻 Developer
 
-GitHub:
-@pambharshrushti-maker
-
-⭐ If you like this project, feel free to star the repository!
+**Srushti Pambhar**
